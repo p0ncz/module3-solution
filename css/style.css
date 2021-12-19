@@ -1,0 +1,45 @@
+.container > div{
+	background: greenyellow;
+	border-color: black;
+	border-style: solid;
+}
+
+h1 {
+	text-align: center;
+}
+
+nav {
+	background: #006D77;
+	color: #fff;
+	border: 1px solid #61122f;
+}
+
+.navbar-nav {
+	text-align:center;
+	background: #EDF6F9;
+	/*border: 1px solid #61122f*/
+}
+
+.top_menu{
+	text-align: center;
+}
+
+.navbar {
+	padding: 0px;
+}
+
+li {
+	border: 1px solid #83C5BE;
+}
+
+.navbar-toggler {
+	margin-right: 10px;
+}
+
+.navbar-brand{
+	margin-left: 10px;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #EDF6F9;
+}
